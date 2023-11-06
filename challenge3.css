@@ -1,6 +1,12 @@
 body {
     text-align: center;
   }
+  article{
+    align-content: center;
+  }
+  .img{
+    place-self: center;
+  }
   nav {
     background-color: steelblue;
     padding: 10px;
